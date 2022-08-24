@@ -20,7 +20,7 @@
 - 📫 Look at my portfolio [Personal Portfolio](https://badripaudel.com.np/)
 
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
