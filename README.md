@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Guides to Code](https://guidestocode.com/)
 
-- - 📝 I also posts my articles on [Medium](https://medium.com/@badripaudel77)
+- 📝 I also posts my articles on [Medium](https://medium.com/@badripaudel77)
 
 - 💬 Ask me about **Anything, I'm open to any discussion whether it's career or normal life.**
 
