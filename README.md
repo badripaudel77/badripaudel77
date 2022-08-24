@@ -9,15 +9,16 @@
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/badripaudel77](https://github.com/badripaudel77)
+- 👨‍💻 All of my personal projects are available at [My Github](https://github.com/badripaudel77)
 
-- 📝 I regularly write articles on [https://guidestocode.com/](https://guidestocode.com/)
+- 📝 I regularly write articles on [Guides to Code](https://guidestocode.com/)
+- 
+- - 📝 I alos posts my articles on [Medium](https://medium.com/@badripaudel77)
 
 - 💬 Ask me about **Anything, I'm open to any discussion whether it's career or normal life.**
 
-- 📫 My portfolio **https://badripaudel.com.np/**
+- 📫 Look at my portfolio [Personal Portfolio](https://badripaudel.com.np/)
 
-- 📄 Know more about me & my experiences [https://badripaudel.com.np/](https://badripaudel.com.np/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
