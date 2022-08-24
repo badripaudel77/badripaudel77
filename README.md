@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Badri Paudel</h1>
+<h1 align="center">Hola 👋 I'm Badri Paudel</h1>
 <h3 align="center">A Junior Software Engineer based in Kathmandu Valley, Nepal.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=badripaudel77&label=Profile%20views&color=0e75b6&style=flat" alt="badripaudel77" /> </p>
