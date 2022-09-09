@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badripaudel77" alt="badripaudel77" /></a> </p>-->
 
-- 🔭 I’m currently working on [Event Logic](https://eventlogic.se/)
+- 🔭 I’m currently working on an SAAS application [Event Logic](https://eventlogic.se/)
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
