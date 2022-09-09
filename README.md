@@ -11,18 +11,14 @@
 
 - 👨‍💻 All of my personal projects are available at [My Github](https://github.com/badripaudel77)
 
-- 📝 I regularly write articles on [Guides to Code](https://guidestocode.com/)
+- 📝 I regularly write articles on my website, [Guides to Code](https://guidestocode.com/)
 
-- 📝 I also posts my articles on [Medium](https://medium.com/@badripaudel77)
+- 📝 I also posts my articles on [My Medium Account](https://medium.com/@badripaudel77)
 
 - 💬 Ask me about **Anything, I'm open to any discussion whether it's career or normal life.**
 
 - 📫 Look at my portfolio [Personal Portfolio](https://badripaudel.com.np/)
 
-
-<!--### Blogs posts-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
