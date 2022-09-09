@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 I'm Badri Paudel</h1>
-<h3 align="center">A Junior Software Engineer based in Kathmandu Valley, Nepal.</h3>
+<h3 align="center">A Junior Software Engineer based in Kathmandu Valley, Nepal.</h3> <hr />
 
 - 🔭 I’m currently working on an SAAS application [Event Logic](https://eventlogic.se/)
 
@@ -23,7 +23,6 @@
 <a href="https://stackoverflow.com/users/9898251/badri-paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9898251/badri-paudel" height="30" width="40" /></a>
 <a href="https://medium.com/@badripaudel77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@badripaudel77" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thecrazymanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecrazymanav" height="30" width="40" /></a>
-<a href="/https://guidestocode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://guidestocode.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
