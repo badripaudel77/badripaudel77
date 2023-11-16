@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
-- 👨‍💻 All of my personal projects are available at [My Github](https://github.com/badripaudel77)
+- 👨‍💻 This github mostly contains all of my personal projects for learning purposes.
 
-- 📝 I regularly write articles on my website, [Guides to Code](https://guidestocode.com/)
+- 📝 I sometimes write articles on my website, [Guides to Code](https://guidestocode.com/) and also post them on [My Medium Account](https://medium.com/@badripaudel77)
 
-- 📝 I also posts my articles on [My Medium Account](https://medium.com/@badripaudel77)
-
-- 💬 Ask me about **Anything, I'm open to any discussion whether it's career or normal life.**
+- 💬 Ask me about **Anything, I'm open to any conversations.**
 
 - 📫 Look at my portfolio [Personal Portfolio](https://badripaudel.com.np/)
 
