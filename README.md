@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 I'm Badri Paudel</h1>
 <h3 align="center">Software Engineer based in Kathmandu, Nepal.</h3> <hr />
 
-- 🔭 Worked little more than two years (2021, July - 2023, NOV) on an Event & Conference management SAAS application known as [Event Logic](https://eventlogic.se/)
+- 🔭 Worked little more than two years (2021, July - 2023, NOV) on an Event & Conference management, an SAAS application known as [Event Logic](https://eventlogic.se/) used in Northern European countries like Sweden, Finland, Denmark, and Norway.
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
