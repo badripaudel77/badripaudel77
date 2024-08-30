@@ -7,7 +7,7 @@
 
 - 👨‍💻 This github mostly contains all of my personal projects for learning purposes.
 
-- 📝 I sometimes write articles on my website, [Guides to Code](https://guidestocode.com/) and also post them on [My Medium Account](https://medium.com/@badripaudel77)
+- 📝 I sometimes write articles on my [Medium Account](https://medium.com/@badripaudel77)
 
 - 💬 Ask me about **Anything, I'm open to any conversations.**
 
