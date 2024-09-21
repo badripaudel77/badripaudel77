@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 I'm Badri Paudel</h1>
 <h3 align="center">Software Engineer based in Kathmandu, Nepal.</h3> <hr />
 
-- 🔭 Worked little more than two years (2021, July - 2023, NOV) on an Event & Conference management, an SAAS application known as [Event Logic](https://eventlogic.se/) used in Northern European countries like Sweden, Finland, Denmark, and Norway.
+- Currently, I am working at different health care related [Cotiviti's Projects](https://www.cotiviti.com/) for the US health-care system through [Infinite Software Nepal](https://www.infinite.com/), where I mostly use Java, Spring Boot, Redis, MongodDB, Drools for rules development, Kubernetes etc . Previously, I used to work as a fullstack software engineer for web application called [Event Logic](eventlogic.se), which is used in Northern European countries like Sweden, Denmark, Finland, Norway etc. I on a daily basis worked on various technologies like Java, Groovy, Grails, Spring, Javascript, Angular Js, PostgreSQL as a part of my job but not limited to that.
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
