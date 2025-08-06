@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋 I'm Badri Paudel</h1>
 <h3 align="center">Software Engineer</h3> <hr />
 
-- Currently, I am working at different health care related [Cotiviti's Projects](https://www.cotiviti.com/) for the US health-care system through [Infinite Software Nepal](https://www.infinite.com/), where I mostly use Java, Spring Boot, Redis, MongodDB, Drools for rules development, Kubernetes etc . Previously, I used to work as a fullstack software engineer for web application called [Event Logic](eventlogic.se), which is used in Northern European countries like Sweden, Denmark, Finland, Norway etc. I on a daily basis worked on various technologies like Java, Groovy, Grails, Spring, Javascript, Angular Js, PostgreSQL as a part of my job but not limited to that.
+- Currently pursuing my Master's degree in Computer Science at Maharishi Internation University, IOWA, USA.
+  
+- Previously, Worked at different health care related [Cotiviti's Projects](https://www.cotiviti.com/) for the US health-care system through [Cotiviti Nepal](https://www.cotiviti.com.np/) and later through [Infinite Software Nepal](https://www.infinite.com/), where I mostly used Java, Spring Boot, Redis, MongodDB, Drools for rules development, Kubernetes and Opeshift for deployment as a developer etc. Before that, I used to work as a fullstack software engineer for web application called [Event Logic](eventlogic.se), which is used in Northern European countries like Sweden, Denmark, Finland, Norway etc. I on a daily basis worked on various technologies like Java, Groovy, Grails, Spring, Javascript, Angular Js, PostgreSQL as a part of my job but not limited to that.
 
 - 🌱 I’m currently learning **Whatever is needed.**
 
