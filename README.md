@@ -23,7 +23,7 @@ receive millions of requests per day.
 💻 Worked extensively on healthcare-related platforms using:  
 **Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
 
-🖥️ Previously, worked as a **Full-Stack Software Engineer** on **Event Logic**, a production web platform used across  
+🖥️ Previously, worked as a **Full-Stack Software Engineer** at **[Event Logic](https://www.eventlogic.se/)**, a multitenant web application, used across  
 **Northern European countries** (Sweden, Denmark, Finland, Norway).
 
 ⌨️ Daily experience includes (but is not limited to):  
