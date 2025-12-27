@@ -10,33 +10,34 @@
 ---
 
 ## 👨‍💻 About Me
-
 🎓 Currently pursuing a **Master’s degree in Computer Science** in Iowa, USA.
-<!-- YouTube link with icon -->
-⏺️ I record videos on my **[YouTube channel](https://www.youtube.com/@theelasticcode)**
 
-👨‍💻 Worked on multiple **US healthcare systems** owned by [Cotiviti, USA](https://www.cotiviti.com/), through  
-  **Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that
-  receives millions of requests per day.
+⏺️ I record videos on my
+<a href="https://www.youtube.com/@theelasticcode" target="_blank">YouTube channel</a>
 
-💻 Worked extensively on healthcare-related platforms using:
-  **Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
+👨‍💻 Worked on multiple **US healthcare systems** owned by
+<a href="https://www.cotiviti.com/" target="_blank">Cotiviti, USA</a>, through  
+**Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that
+receive millions of requests per day.
 
-🖥️ Previously, worked as a **Full-Stack Software Engineer** on **Event Logic**, a production web platform used across
-  **Northern European countries** (Sweden, Denmark, Finland, Norway).
+💻 Worked extensively on healthcare-related platforms using:  
+**Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
 
-⌨️ Daily experience includes (but is not limited to):
-  **Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
+🖥️ Previously, worked as a **Full-Stack Software Engineer** on **Event Logic**, a production web platform used across  
+**Northern European countries** (Sweden, Denmark, Finland, Norway).
+
+⌨️ Daily experience includes (but is not limited to):  
+**Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
 
 🌱 I am constantly learning new and modern technologies.
 
 👨‍💻 This GitHub mostly contains my **personal projects, experiments, and learning-focused repositories**.
 
-📝 I have written a few technical articles on **[Medium](https://medium.com/@badripaudel77)** and posts helpful tips on my **[LinkedIn](https://www.linkedin.com/in/badri-paudel/)**.
+📝 I have written a few technical articles on <a href="https://medium.com/@badripaudel77" target="_blank">Medium</a> and I post helpful tips on my <a href="https://www.linkedin.com/in/badri-paudel/" target="_blank">LinkedIn</a>.
 
 🆓 Feel free to ask me about **backend engineering, Java, Spring Boot, or system design**.
 
-📫 Visit **[My Portfolio](https://badripaudel.com.np)** for more details
+📫 Visit <a href="https://badripaudel.com.np" target="_blank">My Portfolio</a> for more details
 
 ---
 
