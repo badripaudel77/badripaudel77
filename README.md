@@ -1,32 +1,95 @@
 <h1 align="center">Hola 👋 I'm Badri Paudel</h1>
-<h3 align="center">Software Engineer</h3> <hr />
+<h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
 
-- Currently pursuing my Master's degree in Computer Science at Maharishi Internation University, IOWA, USA.
-  
-- Previously, Worked at different health care related [Cotiviti's Projects](https://www.cotiviti.com/) for the US health-care system through [Cotiviti Nepal](https://www.cotiviti.com.np/) and later through [Infinite Software Nepal](https://www.infinite.com/), where I mostly used Java, Spring Boot, Redis, MongodDB, Drools for rules development, Kubernetes and Opeshift for deployment as a developer etc. Before that, I used to work as a fullstack software engineer for web application called [Event Logic](eventlogic.se), which is used in Northern European countries like Sweden, Denmark, Finland, Norway etc. I on a daily basis worked on various technologies like Java, Groovy, Grails, Spring, Javascript, Angular Js, PostgreSQL as a part of my job but not limited to that.
+<hr />
 
-- 🌱 I’m currently learning **Whatever is needed.**
-
-- 👨‍💻 This github mostly contains all of my personal projects for learning purposes.
-
-- 📝 I sometimes write articles on my [Medium Account](https://medium.com/@badripaudel77)
-
-- 💬 Ask me about **Anything, I'm open to any conversations.**
-
-- 📫 Look at my portfolio [Personal Portfolio](https://badripaudel.com.np/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/badripaudel77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badripaudel77" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/badri-paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badri-paudel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9898251/badri-paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9898251/badri-paudel" height="30" width="40" /></a>
-<a href="https://medium.com/@badripaudel77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@badripaudel77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thecrazymanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecrazymanav" height="30" width="40" /></a>
+<p align="center">
+  Building reliable backend systems • Teaching & learning
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badripaudel77&show_icons=true&locale=en&layout=compact" alt="badripaudel77" /></p>
+## 👨‍💻 About Me
 
+🎓 Currently pursuing a **Master’s degree in Computer Science** in Iowa, USA.
+<!-- YouTube link with icon -->
+<a href="https://www.youtube.com/@theelasticcode" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; cursor: pointer;">
+  <!-- YouTube icon SVG -->
+  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 6px;">
+    <path d="M23.498 6.186a2.967 2.967 0 0 0-2.088-2.094C19.835 3.5 12 3.5 12 3.5s-7.835 0-9.41.592a2.967 2.967 0 0 0-2.088 2.094A31.064 31.064 0 0 0 0 12a31.064 31.064 0 0 0 .502 5.814 2.967 2.967 0 0 0 2.088 2.094C4.165 20.5 12 20.5 12 20.5s7.835 0 9.41-.592a2.967 2.967 0 0 0 2.088-2.094A31.064 31.064 0 0 0 24 12a31.064 31.064 0 0 0-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#FF0000"/>
+  </svg>
+  I record videos on my YouTube channel
+</a>
+
+👨‍💻 Worked on multiple **US healthcare systems** owned by [Cotiviti, USA](https://www.cotiviti.com/), through  
+  **Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that
+  receives millions of requests per day.
+
+💻 Worked extensively on healthcare-related platforms using:
+  **Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
+
+🖥️ Previously, worked as a **Full-Stack Software Engineer** on **Event Logic**, a production web platform used across
+  **Northern European countries** (Sweden, Denmark, Finland, Norway).
+
+⌨️ Daily experience includes (but is not limited to):
+  **Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
+
+🌱 I am constantly learning new and modern technologies.
+
+👨‍💻 This GitHub mostly contains my **personal projects, experiments, and learning-focused repositories**.
+
+📝 I have written a few technical articles on **[Medium](https://medium.com/@badripaudel77)** and posts helpful tips on my **[LinkedIn](https://www.linkedin.com/in/badri-paudel/)**.
+
+🆓 Feel free to ask me about **backend engineering, Java, Spring Boot, or system design**.
+
+📫 Visit **[My Portfolio](https://badripaudel.com.np)** for more details
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/badri-paudel" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/9898251/badri-paudel" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/@theelasticcode" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@badripaudel77" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/badripaudel377" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+   <a href="https://www.instagram.com/badripaudel77" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+   </a>
+  <a href="https://www.leetcode.com/thecrazymanav" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+-----
