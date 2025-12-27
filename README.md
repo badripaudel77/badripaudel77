@@ -13,13 +13,7 @@
 
 🎓 Currently pursuing a **Master’s degree in Computer Science** in Iowa, USA.
 <!-- YouTube link with icon -->
-<a href="https://www.youtube.com/@theelasticcode" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; cursor: pointer;">
-  <!-- YouTube icon SVG -->
-  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 6px;">
-    <path d="M23.498 6.186a2.967 2.967 0 0 0-2.088-2.094C19.835 3.5 12 3.5 12 3.5s-7.835 0-9.41.592a2.967 2.967 0 0 0-2.088 2.094A31.064 31.064 0 0 0 0 12a31.064 31.064 0 0 0 .502 5.814 2.967 2.967 0 0 0 2.088 2.094C4.165 20.5 12 20.5 12 20.5s7.835 0 9.41-.592a2.967 2.967 0 0 0 2.088-2.094A31.064 31.064 0 0 0 24 12a31.064 31.064 0 0 0-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#FF0000"/>
-  </svg>
-  I record videos on my YouTube channel
-</a>
+⏺️ I record videos on my **[YouTube channel](https://www.youtube.com/@theelasticcode)**
 
 👨‍💻 Worked on multiple **US healthcare systems** owned by [Cotiviti, USA](https://www.cotiviti.com/), through  
   **Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that
