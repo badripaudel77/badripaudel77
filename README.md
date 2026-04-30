@@ -1,90 +1,107 @@
-<h1 align="center">Hola 👋 I'm Badri Paudel</h1>
-<h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
-
-<hr />
+<h1 align="center">Hey 👋, I'm Badri Paudel</h1>
+<h3 align="center">Backend-Focused Full-Stack Engineer | Java | Spring Boot | Cloud</h3>
 
 <p align="center">
-  Building reliable backend systems • Teaching & learning
+  Building scalable backend systems • Sharing knowledge • Continuous learning 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎓 Currently pursuing a **Master’s degree in Computer Science** in Iowa, USA.
+## 🧑‍💻 About Me
 
-⏺️ I record videos on my
-<a href="https://www.youtube.com/@theelasticcode" target="_blank">YouTube channel</a>
-
-👨‍💻 Worked on multiple **US healthcare systems** owned by
-<a href="https://www.cotiviti.com/" target="_blank">Cotiviti, USA</a>, through  
-**Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that
-receive millions of requests per day.
-
-💻 Worked extensively on healthcare-related platforms using:  
-**Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
-
-🖥️ Previously, worked as a **Full-Stack Software Engineer** at **[Event Logic](https://www.eventlogic.se/)**, a multitenant web application, used across  
-**Northern European countries** (Sweden, Denmark, Finland, Norway).
-
-⌨️ Daily experience includes (but is not limited to):  
-**Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
-
-🌱 I am constantly learning new and modern technologies.
-
-👨‍💻 This GitHub mostly contains my **personal projects, experiments, and learning-focused repositories**.
-
-📝 I have written a few technical articles on <a href="https://medium.com/@badripaudel77" target="_blank">Medium</a> and I post helpful tips on my <a href="https://www.linkedin.com/in/badri-paudel/" target="_blank">LinkedIn</a>.
-
-🆓 Feel free to ask me about **backend engineering, Java, Spring Boot, or system design**.
-
-📫 Visit <a href="https://badripaudel.com.np" target="_blank">My Portfolio</a> for more details
+🎓 Pursuing **M.S. in Computer Science (USA)**  
+💼 Backend-focused engineer with experience in **enterprise-scale systems**  
+🌍 Worked on high-traffic **US Healthcare platforms (millions of requests/day)**  
+📹 Teaching & sharing knowledge on [YouTube](https://www.youtube.com/@theelasticcode)  
 
 ---
 
-## 🌐 Connect with Me
+## 🏢 Professional Experience
+
+### 🔹 Enterprise Backend Systems (US Healthcare)
+- Built and maintained **high-scale backend services**
+- Worked with:
+  - `Java`, `Spring Boot`, `Redis`, `MongoDB`, `PostgreSQL`
+  - `Drools (Rules Engine)`
+  - `Kubernetes`, `OpenShift`, `AWS`
+- Contributed to systems handling **millions of daily requests**
+
+### 🔹 Full-Stack Engineer – Event Logic (Nordic Product)
+- Developed **multi-tenant web application**
+- Used across: 🇸🇪 🇩🇰 🇫🇮 🇳🇴
+- Tech:
+  - `Java`, `Grails`, `Groovy`
+  - `Angular`, `JavaScript`
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Backend
+`Java` • `Spring Boot` • `Groovy` • `Grails` • `Node.js`
+
+### 🌐 Frontend
+`Angular` • `JavaScript` • `React`
+
+### 🗄️ Databases
+`PostgreSQL` • `MongoDB` • `Redis`
+
+### ☁️ DevOps & Cloud
+`Docker` • `Kubernetes` • `OpenShift` • `AWS`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🧠 What I Work On
+
+- 🔹 Backend architecture & scalable APIs  
+- 🔹 System design & performance optimization  
+- 🔹 Distributed systems & caching strategies  
+- 🔹 Teaching JavaScript & backend fundamentals  
+
+---
+
+## ✍️ Content & Writing
+
+- 📝 [Medium Articles](https://medium.com/@badripaudel77)
+- 💼 [LinkedIn Posts](https://www.linkedin.com/in/badri-paudel/)
+- 🎥 [YouTube Channel](https://www.youtube.com/@theelasticcode)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/badri-paudel" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/9898251/badri-paudel" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@theelasticcode" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@badripaudel77" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/badripaudel377" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-   <a href="https://www.instagram.com/badripaudel77" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-   </a>
-  <a href="https://www.leetcode.com/thecrazymanav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/badri-paudel"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/9898251/badri-paudel"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://youtube.com/@theelasticcode"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://medium.com/@badripaudel77"><img src="https://skillicons.dev/icons?i=medium" /></a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
+## 💡 Fun Fact
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
+> I don’t just write code — I **optimize, scale, and teach it.**
 
------
+---
+
+## 📫 Portfolio
+
+🌐 https://badripaudel.com.np
+
+---
+
+⭐️ *Feel free to explore my repositories — most are focused on learning, experimentation, and real-world backend patterns.*
