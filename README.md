@@ -7,27 +7,23 @@
   Building reliable backend systems • Teaching & learning
 </p>
 
----
+------
 
 ## 👨‍💻 About Me
 
-🎓 Currently pursuing a **Master’s degree in Computer Science** in Iowa, USA.
+🎓 Currently pursuing a **Master’s degree in Computer Science** in the USA.
 
 ⏺️ I record videos on my  
 <a href="https://www.youtube.com/@theelasticcode" target="_blank">YouTube channel</a>
 
 👨‍💻 Worked on multiple **US healthcare systems** owned by  
-<a href="https://www.cotiviti.com/" target="_blank">Cotiviti, USA</a>, through  
-**Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that receive millions of requests per day.
+<a href="https://www.cotiviti.com/" target="_blank">Cotiviti, USA</a>, through  **Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that receive millions of requests per day.
 
-💻 Worked extensively on healthcare-related platforms using:  
-**Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
+💻 Worked extensively on healthcare-related platforms using:  **Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
 
-🖥️ Previously, worked as a **Full-Stack Software Engineer** at **[Event Logic](https://www.eventlogic.se/)**, a multitenant web application, used across  
-**Northern European countries** (Sweden, Denmark, Finland, Norway).
+🖥️ Previously, worked as a **Full-Stack Software Engineer** at **[Event Logic](https://www.eventlogic.se/)**, a multitenant web application, used across  **Northern European countries** (Sweden, Denmark, Finland, Norway).
 
-⌨️ Daily experience includes (but is not limited to):  
-**Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
+⌨️ Daily experience includes (but is not limited to):  **Java, Groovy, Grails, Spring, JavaScript, Angular, PostgreSQL**, and more.
 
 🌱 I am constantly learning new and modern technologies.
 
@@ -39,7 +35,7 @@
 
 📫 Visit <a href="https://badripaudel.com.np" target="_blank">My Portfolio</a> for more details
 
----
+------
 
 ## 🌐 Connect with Me
 
@@ -67,7 +63,7 @@
   </a>
 </p>
 
----
+-----
 
 ## 🧰 Languages & Tools
 
@@ -87,7 +83,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
----
+-----
 
 ## 📊 Language Usage
 
