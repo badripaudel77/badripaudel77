@@ -92,5 +92,5 @@
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badripaudel&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badripaudel77&layout=compact&theme=tokyonight" height="160"/>
 </p>
