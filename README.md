@@ -4,7 +4,7 @@
 <hr />
 
 <p align="center">
-  Building reliable backend systems • Teaching & learning
+  Building reliable systems • Teaching & learning
 </p>
 
 ------
@@ -15,7 +15,7 @@
 
 ⏺️ I record videos on my  <a href="https://www.youtube.com/@theelasticcode" target="_blank">YouTube channel</a>
 
-👨‍💻 Worked on multiple **US healthcare systems** owned by  <a href="https://www.cotiviti.com/" target="_blank">Cotiviti, USA</a>, through  **Cotiviti Nepal** and later **Infinite Software Nepal**, contributing to enterprise-scale backend services that receive millions of requests per day.
+👨‍💻 Worked on multiple **US healthcare systems** owned by  <a href="https://www.cotiviti.com/" target="_blank">Cotiviti, Inc., USA</a>, contributing to enterprise-scale backend services that receive millions of requests per day.
 
 💻 Worked extensively on healthcare-related platforms using:  **Java, Spring Boot, Redis, MongoDB, SQL, Drools (rules engine), Kubernetes, OpenShift**, and related cloud-native tools.
 
